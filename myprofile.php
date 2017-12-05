@@ -121,13 +121,13 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
                                <li class="dropdown">
                                    <a href="#" class="dropbtn" id="drop" data-toggle="dropdown" role="button" aria-expanded="false">Research <span class="caret"></span></a>
                                    <ul class="dropdown-content" id="content">
-                                       <li><a href="#">Motor Control</a></li>
-                                       <li><a href="#">Sensory</a></li>
-                                       <li><a href="#">Regulation</a></li>
-                                       <li><a href="#">Language</a></li>
-                                       <li><a href="#">Laterlization</a></li>
-                                       <li><a href="#">Emotion</a></li>
-                                       <li><a href="#">Executive function</a></li>
+                                       <li><a href="motorcontrol.html">Motor Control</a>
+                <a href="sensory.html">Sensory</a>
+                <a href="regulation.html">Regulation</a>
+                <a href="language.html">Language</a>
+                <a href="laterlization.html">Laterlization</a>
+                <a href="emotion.html">Emotion</a>
+                <a href="executive">Executive function</a></li>
                                    </ul>
                                </li>
                                <li><a href="login/logout.php">Logout</a></li>

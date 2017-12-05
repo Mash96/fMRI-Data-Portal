@@ -49,15 +49,15 @@
                                     <li><a href="contact.html">Contact</a></li>
                                     <li><a href="contact.html">Forum</a></li>
                                     <li class="dropdown">
-                                        <a href="#" class="dropbtn" id="drop" data-toggle="dropdown" role="button" aria-expanded="false">Research <span class="caret"></span></a>
+                                        <a href="#" class="dropbtn" id="drop" data-toggle="dropdown" role="button" aria-expanded="false">Research<span class="caret"></span></a>
                                         <ul class="dropdown-content" id="content">
-                                            <li><a href="#">Sensory</a></li>
-                                            <li><a href="#">Motor Control</a></li>
-                                            <li><a href="#">Regulation</a></li>
-                                            <li><a href="#">Language</a></li>
-                                            <li><a href="#">Laterlization</a></li>
-                                            <li><a href="#">Emotion</a></li>
-                                            <li><a href="#">Executive function</a></li>
+                                            <li><a href="sensory.html">Sensory</a></li>
+                                            <li><a href="motorcontrol.html">Motor Control</a></li>
+                                            <li><a href="regulation.html">Regulation</a></li>
+                                            <li><a href="language.html">Language</a></li>
+                                            <li><a href="laterlization.html">Laterlization</a></li>
+                                            <li><a href="emotion.html">Emotion</a></li>
+                                            <li><a href="executive.html">Executive function</a></li>
                                         </ul>
                                     </li>
 
